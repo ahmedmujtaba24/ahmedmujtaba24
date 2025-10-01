@@ -1,6 +1,3 @@
-![](file:///C:/Users/Ahmed%20Mujtaba/Downloads/1750160778570.jpeg)<br/>
-
-
 # 💫 About Me:
 I’m Mujtaba Ahmed, an Economics Honors student with a passion for understanding the forces shaping global markets. My research bridges rigorous econometrics, AI-driven financial modeling, and macroeconomic analysis, with a particular focus on shadow economies, capital misallocation, and the macro-financial implications of emerging technologies. I actively combine theory and practice, leveraging Python, R, SQL, and Excel to produce reproducible, data-driven insights that inform real-world investment and policy decisions.<br><br>Beyond academics, I’m building a research and professional footprint aimed at the buy-side, including hedge funds and macro-focused investment roles. My long-term vision is to manage global-scale portfolios, influence policy through evidence-based research, and drive decisions that reshape markets. I document my work through SSRN, GitHub, and market-oriented notes, ensuring that every analysis is both robust and actionable.<br><br>I thrive at the intersection of quantitative rigor, market intuition, and strategic foresight, turning data into decisions and ideas into impact.🔭 I’m currently working on<br>
 
